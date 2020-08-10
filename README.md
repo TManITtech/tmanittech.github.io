@@ -1,4 +1,4 @@
 # tmanittech.github.io
 Main home webpage
 
-  [Al_Hamichya](/Al_Hamichya/)
+  [Al Hamichya](/Al_Hamichya/)
